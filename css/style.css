@@ -112,7 +112,7 @@ a {
 .nav {
     display: flex;
     justify-content: space-between;
-    padding: 1.4rem 3.5rem;
+    padding: 1.4rem 2rem;
     position: fixed;
     top: 0;
     left: 0;
